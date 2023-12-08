@@ -44,5 +44,3 @@
 </div>
 
 ###
-
-![snake animation](https://github.com/<seu guliahmedova>/<seu guliahmedova>/blob/output/github-contribution-grid-snake2.svg)
