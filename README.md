@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/guliahmedova/guliahmedova/output/snake.svg" alt="Snake animation" />
-
-###
